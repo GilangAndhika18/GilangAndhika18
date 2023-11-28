@@ -1,4 +1,4 @@
-<img src ="https://media2.giphy.com/media/TNwX48Ear64uWmN7t3/giphy.gif?cid=ecf05e476m0eo77cfg3q6yogjkfz1ql5nhxrm4p2o6whs5e0&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="image" width="300" height="300" />
+<img src ="https://media2.giphy.com/media/TNwX48Ear64uWmN7t3/giphy.gif?cid=ecf05e476m0eo77cfg3q6yogjkfz1ql5nhxrm4p2o6whs5e0&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="image" width="300" height="200" />
 <h1 align="center">Hi 👋, I'm Gilang</h1>
 <h3 align="center">A Normal Guy from East Java</h3>
 
