@@ -1,4 +1,4 @@
-<img src ="https://media.tenor.com/hMbaP99LOpUAAAAC/megumi-kato-saekano.gif" alt="image" width="300" height="200" />
+<img src ="https://media.tenor.com/hMbaP99LOpUAAAAC/megumi-kato-saekano.gif" alt="image" width="200" height="100" />
 <h1 align="center">Hi 👋, I'm Gilang</h1>
 <h3 align="center">A Normal Guy from East Java</h3>
 
